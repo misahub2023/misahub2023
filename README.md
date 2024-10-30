@@ -4,19 +4,27 @@
 
 ## MISAHUB (Medical Imaging and Signal Analysis Hub)
 
-**MISAHUB** stands for **Medical Imaging and Signal Analysis Hub**. It is a virtual, open-source platform that showcases cutting-edge research by a team of talented students, faculty members, and healthcare professionals. MISAHUB provides unique opportunities to work in the field of artificial intelligence in healthcare, facilitating collaboration and innovation.
+**MISAHUB** stands for **Medical Imaging and Signal Analysis Hub**. It is a virtual, open-source platform that showcases cutting-edge research by a team of talented students, faculty members, and healthcare professionals. MISAHUB provides unique opportunities to work in the field of artificial intelligence in healthcare for good, facilitating collaboration and innovation for undergraudate and graduate students of diverse backgrounds, currently on a mentor-mentee concept. We believe in training the new generation of students from sciences, engineering and medicine to tackle interesting biomedical problems primarily in EEG, colonoscopy, capsule endoscopy, ultrasound imaging, GI endoscopy, hysteroscopy, and now dental imaging. We are open to collaborations from hospital end, industry end and academia throughout the year and are looking for seed funds and grants!
 
 ### Background
-MISAHUB was co-founded by **Dr. Palak Handa** from the *Research Center for Medical Image Analysis and AI, Department of Medicine, Danube Private University, Austria*, and **Prof. Nidhi Goel** from the *Department of Electronics and Communication Engineering, Indira Gandhi Delhi Technical University for Women, Delhi, India*. The group has mentored over **150 students** from institutions including:
-- University School of Automation and Robotics (USAR)
-- Indira Gandhi Delhi Technical University for Women (IGDTUW)
-- GHC, GirlScript, WTC, and Trussia College
+MISAHUB was founded in 2019, online from 2022, and led by **Dr. Palak Handa** from the *Research Center for Medical Image Analysis and Artificial Intelligence (MIAAI), Department of Medicine, Danube Private University, Krems, Austria*, and **Prof. Dr. Nidhi Goel** from the *Department of Electronics and Communication Engineering, Indira Gandhi Delhi Technical University for Women, Delhi, India*. The group has mentored more **150 students** since 2019 from institutions including:
+
+- Indira Gandhi Delhi Technical University for Women (IGDTUW), New Delhi
+- University School of Automation and Robotics (USAR), New Delhi
+- Delhi Technological University (DTU), New Delhi
+- Sardar Patel Institute of Technology, Mumbai
+- Sanghvi College of Enginereing, Mumbai
+- IIT Delhi, IIT Indore, IIIT Delhi
+- Grace Hopper Celeberations, GirlScript, Women Tech Council, and Trussia College
 
 ### Achievements
-- Published **12 journals**
-- Filed **10 patents**
-- Organized **4 challenges**
-- Presented **20 conference papers**
+- Published more than **12 journal articles in SCIE indexed journals**
+- Filed **10 national patents in granting and publishing stage**
+- Organized and successfully completed **4 biomedical challenges with Internatinal Organization and conferences like IEEE ICIP 2024, CVIP 2023, CVIP 2024, IEEE Delhi Section, MIAAI, DPU, Austria**
+- Presented more than **20 conference papers of national and international repute**
+- Released more than **10 biomedical datasets in Video Capsule Endoscopy, EEG, Colonoscopy, and Ultrasound Imaging which have more than 1000 downloads in less than an year.**
+- Mentee success stories and placements in Google, Micosoft, Adobe, Walmart, etc.
+- Comprehensive guidance in writing research papers, ways to research and personal development.
 
 ---
 
@@ -50,42 +58,17 @@ organized by the **Research Center for Medical Image Analysis and Artificial Int
 
 **Objective**: This challenge aims to improve VCE multi-class abnormality classification, supporting gastroenterologists with high diagnostic accuracy and reduced analysis time.
 
-**Important Dates**:
-- E-Registration: **Aug 15 - Oct 10, 2024**
-- Training Dataset Release: **Aug 15, 2024**
-- Testing Dataset Release: **Oct 11, 2024**
-- Results Submission: **Oct 11 - Oct 25, 2024**
-- Evaluation: **Oct 26 - Nov 24, 2024**
-- Result Announcement: **Nov 25, 2024**
-
 **Website**: [Capsule Vision 2024](https://cvip-2024.vercel.app/challenge)
 
 ### 2. Auto-WCEBleedGen Challenge Version V2
 Organized in collaboration with **IEEE @ICIP 2024**
 
 **Objective**: This challenge invites the development and evaluation of AI models for automatic detection and classification of bleeding and non-bleeding frames in Wireless Capsule Endoscopy (WCE) videos. The dataset includes 2618 frames with medically validated masks and bounding boxes in formats (txt, XML, YOLO txt).
-
-**Important Dates**:
-- Launch: **Jan 20, 2024**
-- E-Registration: **Jan 20 - Jan 30, 2024** 
-- Training Dataset Release: **Jan 20, 2024**
-- Testing Dataset Release: **Jan 31, 2024**
-- Result Submission: **Feb 22 - Feb 24, 2024**
-- Winners Announcement: **Mar 6, 2024**
   
 ### 3. Auto-PCOS Classification Challenge
 Organized in collaboration with **IEEE-WIE IGDTUW**
 
 **Objective**: Participants develop algorithms to classify Polycystic Ovary Syndrome (PCOS) in ultrasound images, addressing an undiagnosed condition that can lead to long-term health risks.
-
-**Important Dates**:
-- Challenge Launch: **Dec 26, 2023**
-- E-Registration: **Dec 26, 2023 – Jan 14, 2024**
-- Training Dataset Release: **Dec 26, 2023**
-- Testing Dataset Release: **Jan 15, 2024**
-- Result Submission: **Feb 26 – Mar 1, 2024**
-- Shortlisted Teams Announcement: **Apr 2, 2024**
-- Award Ceremony: **Apr 26, 2024**
 
 **Website**: [Auto-PCOS Classification Challenge](https://misahub.in/pcos/index.html)
 
@@ -94,21 +77,15 @@ Organized in collaboration with the **8th International Conference on Computer V
 
 **Objective**: This challenge invites the development and evaluation of AI models for automatic detection and classification of bleeding and non-bleeding frames in Wireless Capsule Endoscopy (WCE) videos. The dataset includes 2618 frames with medically validated masks and bounding boxes in formats (txt, XML, YOLO txt).
 
-**Important Dates**:
-- Registration Closing: **Sep 20**
-- Testing Dataset Release: **Sep 21**
-- Submission Deadline: **Oct 9**
-- Winners Announcement: **Oct 23**
-
 **Website**: [Auto-WCEBleedGen Challenge](https://unstop.com/hackathons/auto-wcebleedgen-challenge-misahub-758057)
 
 ---
 
 ## Connect with Us
 
-- **Website**: [MISAHUB OFFICIAL WEBSITE](https://misahub.in/)
+- **Official Website**: [MISAHUB OFFICIAL WEBSITE](https://misahub.in/)
   
-- **Google Scholar**: [MISAHUB SCHOLAR PAGE](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
+- **to check our publications, see our Google Scholar**: [MISAHUB SCHOLAR PAGE](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
 
 - **Email**: [ask.misahub@gmail.com](ask.misahub@gmail.com]), [misahub2023@gmail.com](ask.misahub@gmail.com) and [palakhanda97@gmail.com](palakhanda97@gmail.com) Reach out to us for collaborations or inquiries.
 
