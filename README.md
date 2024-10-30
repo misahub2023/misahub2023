@@ -85,7 +85,7 @@ Organized in collaboration with the **8th International Conference on Computer V
 
 - **Official Website**: [MISAHUB OFFICIAL WEBSITE](https://misahub.in/)
   
-- **to check our publications, see our Google Scholar**: [MISAHUB SCHOLAR PAGE](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
+- **To check our publications, see our Google Scholar**: [MISAHUB SCHOLAR PAGE](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
 
 - **Email**: [ask.misahub@gmail.com](ask.misahub@gmail.com]), [misahub2023@gmail.com](ask.misahub@gmail.com) and [palakhanda97@gmail.com](palakhanda97@gmail.com) Reach out to us for collaborations or inquiries.
 
