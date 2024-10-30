@@ -33,6 +33,11 @@ Till date MISAHUB has published 12 journals, 10 patents, 4 challenges and 20 con
 ## Website: [misahub](https://misahub.in/)
 ## Google Scholar: [misahub](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
 
+## Connect with us:
+email
+linkedin
+
+
 <h3 align="center">Connect with us</h3>
 
 
