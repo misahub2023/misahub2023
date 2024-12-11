@@ -4,10 +4,10 @@
 
 ## MISAHUB (Medical Imaging and Signal Analysis Hub)
 
-**MISAHUB** stands for **Medical Imaging and Signal Analysis Hub**. It is a virtual, open-source platform that showcases cutting-edge research by a team of talented students, faculty members, and healthcare professionals. MISAHUB provides unique opportunities to work in the field of artificial intelligence in healthcare for good, facilitating collaboration and innovation for undergraudate and graduate students of diverse backgrounds, currently on a mentor-mentee concept. We believe in training the new generation of students from sciences, engineering and medicine to tackle interesting biomedical problems primarily in EEG, colonoscopy, capsule endoscopy, ultrasound imaging, GI endoscopy, hysteroscopy, and now dental imaging. We are open to collaborations from hospital end, industry end and academia throughout the year and are looking for seed funds and grants!
+**MISAHUB** stands for **Medical Imaging and Signal Analysis Hub**. A virtual, open-source platform which showcased cutting-edge research by a team of talented students, faculty members, and healthcare professionals. MISAHUB provided unique opportunities to work in the field of artificial intelligence in healthcare for good, facilitating collaboration and innovation for undergraudate and graduate students of diverse backgrounds, currently on a mentor-mentee concept. We believed in training the new generation of students from sciences, engineering and medicine to tackle interesting biomedical problems primarily in EEG, colonoscopy, capsule endoscopy, ultrasound imaging, GI endoscopy, hysteroscopy, and now dental imaging. 
 
 ### Background
-MISAHUB was founded in 2019, online from 2022, and led by **Dr. Palak Handa** from the *Research Center for Medical Image Analysis and Artificial Intelligence (MIAAI), Department of Medicine, Danube Private University, Krems, Austria*, and **Prof. Dr. Nidhi Goel** from the *Department of Electronics and Communication Engineering, Indira Gandhi Delhi Technical University for Women, Delhi, India*. The group has mentored more **150 students** since 2019 from institutions including:
+MISAHUB was founded in 2019, online from 2022, and  was led by **Dr. Palak Handa** from the *Research Center for Medical Image Analysis and Artificial Intelligence (MIAAI), Department of Medicine, Danube Private University, Krems, Austria*, and **Prof. Dr. Nidhi Goel** from the *Department of Electronics and Communication Engineering, Indira Gandhi Delhi Technical University for Women, Delhi, India*. The group has mentored more **150 students** since 2019 from institutions including:
 
 - Indira Gandhi Delhi Technical University for Women (IGDTUW), New Delhi
 - University School of Automation and Robotics (USAR), New Delhi
@@ -16,6 +16,8 @@ MISAHUB was founded in 2019, online from 2022, and led by **Dr. Palak Handa** fr
 - Sanghvi College of Enginereing, Mumbai
 - IIT Delhi, IIT Indore, IIIT Delhi
 - Grace Hopper Celeberations, GirlScript, Women Tech Council, and Trussia College
+
+MISAHUB was functional from 2019 to 2024 and no longer takes new mentees. All the projects, code files, and datasets are available here for resource and further use in research. 
 
 ### Achievements
 - Published more than **12 journal articles in SCIE indexed journals**
