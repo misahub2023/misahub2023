@@ -66,15 +66,8 @@ organized by the **Research Center for Medical Image Analysis and Artificial Int
 Organized in collaboration with **IEEE @ICIP 2024**
 
 **Objective**: This challenge invites the development and evaluation of AI models for automatic detection and classification of bleeding and non-bleeding frames in Wireless Capsule Endoscopy (WCE) videos. The dataset includes 2618 frames with medically validated masks and bounding boxes in formats (txt, XML, YOLO txt).
-  
-### 3. Auto-PCOS Classification Challenge
-Organized in collaboration with **IEEE-WIE IGDTUW**
 
-**Objective**: Participants develop algorithms to classify Polycystic Ovary Syndrome (PCOS) in ultrasound images, addressing an undiagnosed condition that can lead to long-term health risks.
-
-**Website**: [Auto-PCOS Classification Challenge](https://misahub.in/pcos/index.html)
-
-### 4. Auto-WCEBleedGen Challenge
+### 3. Auto-WCEBleedGen Challenge
 Organized in collaboration with the **8th International Conference on Computer Vision and Image Processing (CVIP-2023), IIT-Jammu**
 
 **Objective**: This challenge invites the development and evaluation of AI models for automatic detection and classification of bleeding and non-bleeding frames in Wireless Capsule Endoscopy (WCE) videos. The dataset includes 2618 frames with medically validated masks and bounding boxes in formats (txt, XML, YOLO txt).
