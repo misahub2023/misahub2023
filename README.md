@@ -47,10 +47,6 @@ MISAHUB was functional from 2019 to 2024 and no longer takes new mentees. All th
    - [Meta-EEG of Siena Scalp EEG Database v1.0.0](https://zenodo.org/record/6061290#.ZEp6i3ZBzIW)
    - [Dataset of Rhythmicity Spectrogram Based Images of Seizure and Non-Seizure EEG Signals](https://zenodo.org/record/6055011#.ZEp6i3ZBzIX)
 
-4. **Ultrasound**
-   - [PCOSGen-Train Dataset](https://zenodo.org/records/10430727)
-   - [PCOSGen-Test Dataset](https://zenodo.org/records/10510879)
-
 ---
 
 ## Challenges Organized (latest to older)
@@ -78,11 +74,11 @@ Organized in collaboration with the **8th International Conference on Computer V
 
 ## Connect with Us
 
-- **Official Website**: [MISAHUB OFFICIAL WEBSITE](https://misahub.in/)
+- **Official Website**: [MISAHUB OFFICIAL WEBSITE](https://misahub2023.github.io)
   
 - **To check our publications, see our Google Scholar**: [MISAHUB SCHOLAR PAGE](https://scholar.google.com/citations?user=mvDYiX0AAAAJ&hl=en)
 
-- **Email**: [ask.misahub@gmail.com](ask.misahub@gmail.com]), [misahub2023@gmail.com](ask.misahub@gmail.com) and [palakhanda97@gmail.com](palakhanda97@gmail.com) Reach out to us for collaborations or inquiries.
+- **Email**: [palakhanda97@gmail.com](palakhanda97@gmail.com) Reach out to us for any inquiries.
 
 - **LinkedIn**: [MISAHUB LNKEDIN](https://www.linkedin.com/in/misahub/) Stay updated on our latest projects and developments.
 
