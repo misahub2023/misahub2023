@@ -80,8 +80,6 @@ Organized in collaboration with the **8th International Conference on Computer V
 
 - **Email**: [palakhanda97@gmail.com](palakhanda97@gmail.com) Reach out to us for any inquiries.
 
-- **LinkedIn**: [MISAHUB LNKEDIN](https://www.linkedin.com/in/misahub/) Stay updated on our latest projects and developments.
-
 ---
 ## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misahub2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
